@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6e0081/t/v1/juan/0
+seq: 0
+front:
+  text: 五教止觀一乘十玄門合行敘夫五教止觀也者華嚴初祖帝心尊者所造且一乘十玄門也者第二祖至相大師所撰也偕釋于大不思議經而始起五教乃立十玄是顯於無閡重重因陀羅珠網之寶冊示乎圓融隱隱錠光頗黎鏡之玉章也或日書林井氏袖彼二小策子來謂云頃日雕刻入梓因思欲及于遐邇而卷軸至少若別行者恐煩披閲是故合集以行焉因乞措一辭於卷首繇旃應索書而為敘惟時元祿第九丙子八月穀旦寓智積覺眼空敬識
+  hash: sha256:a136b2217c5aa78c92067db362c8e9e3ef80af7e63fe58e19a544de2c6caf226
+  markers:
+  - {type: 序, offset: 0, content: 五教止觀一乘十玄門合行敘, id: KR6e0081_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴五教止觀
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1867.xml
+    old_id: T45n1867
+hash: sha256:e1a9ba67e9ba2c166cf52199a140117da18cff0c35b6381323fd60f42dc29ec6
