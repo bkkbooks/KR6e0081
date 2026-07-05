@@ -21,11 +21,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0081_000.yaml, hash: 'sha256:e1a9ba67e9ba2c166cf52199a140117da18cff0c35b6381323fd60f42dc29ec6'}
-  - {seq: 1, filename: KR6e0081_001.yaml, hash: 'sha256:857a30d33ed6a6820ace7f1640b37e73d02a141647fdaefd1215a769162c262d'}
+  - {seq: 0, filename: KR6e0081_000.yaml, hash: 'sha256:094359dbe44d31514d98223b240c0dcb28caac079a6de4ccd4855bfe96c16b24'}
+  - {seq: 1, filename: KR6e0081_001.yaml, hash: 'sha256:c1ae06626fa26be729195c82a1c89febb085534b0fd0adefa4ce45f67016e7e7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0081_000.markers.yaml, hash: 'sha256:029afe38beea1b7ce077e931a97486eb624e04277ef9a63cba0726f4ca1e4de3'}
-  - {seq: 1, role: markers, filename: assets/KR6e0081_001.markers.yaml, hash: 'sha256:b88d5d27accd657cc4e9a73f460b9e88f560dcd029e8aaa3538c7ecb8f2e8bdc'}
+  - {seq: 0, role: markers, filename: assets/KR6e0081_000.markers.yaml, hash: 'sha256:16fea4b0ecdc4557aa4cdeee0356e7dc543dcc0760a0342112e67396df1b69df'}
+  - {seq: 1, role: markers, filename: assets/KR6e0081_001.markers.yaml, hash: 'sha256:b508f17efdc87425c09aa7c7079a093e6bb92a2c44c562c696957bc3b6e133bd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -107,7 +107,4 @@ table_of_contents:
   label: 終南山杜順禪師緣起
   type: mulu
   level: 1
-hash: sha256:c1bb3e774405b51a1c54194293e47c82515965a0775386d2cdadd689076fb1e2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ffd1cb2cd41e175ae2b4bcb781146415577ffeec2c7aba51e1442db7d1813acd
