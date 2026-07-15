@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0081/v1
 canonical_location: https://kanripo.org/bkk/KR6e0081/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 華嚴五教止觀
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0081_000.yaml, hash: 'sha256:094359dbe44d31514d98223b240c0dcb28caac079a6de4ccd4855bfe96c16b24'}
-  - {seq: 1, filename: KR6e0081_001.yaml, hash: 'sha256:c1ae06626fa26be729195c82a1c89febb085534b0fd0adefa4ce45f67016e7e7'}
+  - {seq: 0, filename: KR6e0081_000.yaml, hash: 'sha256:b46ef87282c7df6cb393e6ae009e66d5abb2558dc49c3aadd912ef35a4ca38e2'}
+  - {seq: 1, filename: KR6e0081_001.yaml, hash: 'sha256:570bf8f2e49ea211ef63ac11484aae3385d4abd4c0bc084743ba3e0dcb163cb2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0081_000.markers.yaml, hash: 'sha256:16fea4b0ecdc4557aa4cdeee0356e7dc543dcc0760a0342112e67396df1b69df'}
-  - {seq: 1, role: markers, filename: assets/KR6e0081_001.markers.yaml, hash: 'sha256:b508f17efdc87425c09aa7c7079a093e6bb92a2c44c562c696957bc3b6e133bd'}
+  - {seq: 0, role: markers, filename: assets/KR6e0081_000.markers.yaml, hash: 'sha256:40eeee686fdd5a09ff656e257f2d4dd18d280a0d51316a713897721d606c9558'}
+  - {seq: 1, role: markers, filename: assets/KR6e0081_001.markers.yaml, hash: 'sha256:3d44d764c68648c7783bc8be91d9c82e3c75008bc57fcf762570114fbab33584'}
 table_of_contents:
 - ref:
     seq: 0
@@ -107,4 +107,7 @@ table_of_contents:
   label: 終南山杜順禪師緣起
   type: mulu
   level: 1
-hash: sha256:ffd1cb2cd41e175ae2b4bcb781146415577ffeec2c7aba51e1442db7d1813acd
+hash: sha256:9de49fcb5dcb09b7b9aeeb5519aa7baa30e4d3a3157da264903ad5221f514b97
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
