@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0081_000-T.yaml, hash: 'sha256:094359dbe44d31514d98223b240c0dcb28caac079a6de4ccd4855bfe96c16b24'}
+  - {seq: 0, filename: KR6e0081_000-T.yaml, hash: 'sha256:52e66d763cc71955b37e9900ef4cb10d5df6d11227223f8a536cb13ce99e44c5'}
   - {seq: 1, filename: KR6e0081_001-T.yaml, hash: 'sha256:c1ae06626fa26be729195c82a1c89febb085534b0fd0adefa4ce45f67016e7e7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0081_000-T.markers.yaml, hash: 'sha256:a867c9d30aec963102cc0b3f473569023d1b64b048d4737fb8d68e8e28a4adf3'}
+  - {seq: 0, role: markers, filename: assets/KR6e0081_000-T.markers.yaml, hash: 'sha256:0fd0e2271a73d07c38bfb5ff9803ec14739062d2d026f43b7a9cc207b9305ef2'}
   - {seq: 1, role: markers, filename: assets/KR6e0081_001-T.markers.yaml, hash: 'sha256:a7526fc5c6397d422b47e4c54d5057a3680262711889dbc286c6bd1e27098cd8'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6e0081_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 五教止觀一乘十玄門合行敘
@@ -105,4 +105,4 @@ table_of_contents:
   label: 終南山杜順禪師緣起
   type: mulu
   level: 1
-hash: sha256:dc9268c194c213ab47d9d5c3a4dd07c03782e2a139c5e518476eebe2ad57dc4b
+hash: sha256:663fd38cafda06a5c21f02c8a665aabeae9731ec6d4956c6e5ca16dae31d9004
